@@ -12,7 +12,8 @@ git new branch......
 Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 new ......01
-iiiiiiiiiiiiiiiiieeeeeeeeiiiiiiiiiiiiieeeeee
 
 101bug 修改
 lllllllllll11122lll33
+
+new ....... 02
